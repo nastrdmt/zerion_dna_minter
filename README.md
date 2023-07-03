@@ -1,7 +1,7 @@
 <h1 align="center">Zerion Dna Minter</h1>
 
 <h2>О боте</h2>
-Минтит Dna от zerion.io</br>
+Минтит Dna от https://zerion.io/</br>
 
 * Приватные кошельки пишем в keys.txt - один ключ на одной строке </br>
 
